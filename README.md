@@ -20,4 +20,4 @@ Fully functional player vs player chess game, using object-oriented programming,
 ![check_move](https://github.com/quevedof/PVP_Chess/blob/main/snapshots/check.png "Check Move")
 ---
 ### Snapshot 5 - Class Diagram
-![class_diagram](https://github.com/quevedof/PVP_Chess/blob/main/snapshots/class_diagram.png "Class Diagram")
+![class_diagram](https://github.com/quevedof/PVP_Chess/blob/main/snapshots/class_diagram.jpg "Class Diagram")
